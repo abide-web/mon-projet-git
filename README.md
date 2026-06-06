@@ -1,2 +1,2 @@
 # mon-projet-git
-travail pour maitrise de git et github
+travail pour la maitrise de git et github
